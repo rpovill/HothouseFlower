@@ -1,0 +1,18 @@
+body {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: larger; 
+   font-weight: bold;
+   color: rgb(255, 239, 149);
+}
+
+a{
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: larger; 
+   font-weight: bold;
+   color: rgb(15, 15, 75);
+}
+
+a.yellow:hover {
+    color:rgb(234, 230, 169);
+}
